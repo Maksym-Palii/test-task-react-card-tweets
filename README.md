@@ -1,1 +1,1 @@
-# test-task-react-card-tweets
+# test task for creating interactive pictures of tweets
