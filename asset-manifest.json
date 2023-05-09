@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/test-task-react-card-tweets/static/css/main.0986db0d.css",
-    "main.js": "/test-task-react-card-tweets/static/js/main.22139df5.js",
+    "main.css": "/test-task-react-card-tweets/static/css/main.775ffb42.css",
+    "main.js": "/test-task-react-card-tweets/static/js/main.99d4f5f7.js",
     "static/js/787.29f94740.chunk.js": "/test-task-react-card-tweets/static/js/787.29f94740.chunk.js",
     "static/media/montserrat-all-400-normal.woff": "/test-task-react-card-tweets/static/media/montserrat-all-400-normal.327fab0afc997a2d9b16.woff",
     "static/media/imgBackground.png": "/test-task-react-card-tweets/static/media/imgBackground.b3d9942b3f9d5dad1ff0.png",
@@ -11,12 +11,12 @@
     "static/media/montserrat-cyrillic-400-normal.woff2": "/test-task-react-card-tweets/static/media/montserrat-cyrillic-400-normal.e5c5c19c23e370a342c8.woff2",
     "static/media/montserrat-vietnamese-400-normal.woff2": "/test-task-react-card-tweets/static/media/montserrat-vietnamese-400-normal.8f3f4c99eb0eeb5990f1.woff2",
     "index.html": "/test-task-react-card-tweets/index.html",
-    "main.0986db0d.css.map": "/test-task-react-card-tweets/static/css/main.0986db0d.css.map",
-    "main.22139df5.js.map": "/test-task-react-card-tweets/static/js/main.22139df5.js.map",
+    "main.775ffb42.css.map": "/test-task-react-card-tweets/static/css/main.775ffb42.css.map",
+    "main.99d4f5f7.js.map": "/test-task-react-card-tweets/static/js/main.99d4f5f7.js.map",
     "787.29f94740.chunk.js.map": "/test-task-react-card-tweets/static/js/787.29f94740.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0986db0d.css",
-    "static/js/main.22139df5.js"
+    "static/css/main.775ffb42.css",
+    "static/js/main.99d4f5f7.js"
   ]
 }
